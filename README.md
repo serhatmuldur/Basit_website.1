@@ -1,5 +1,7 @@
 # Basit_website.1
 
+Bu bir insan için küçük, benim için dev bir adım.
+This is one small step for a person, one giant leap for me.
 
 
 
